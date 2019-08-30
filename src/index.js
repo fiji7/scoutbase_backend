@@ -140,6 +140,6 @@ const createDummyData = async () => {
 
   );
 } catch (err) {
-   console.log('Dummy data already creted ;)')
+   console.log('Dummy data already created ;)')
   }
 };
