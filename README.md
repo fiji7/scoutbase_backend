@@ -81,3 +81,11 @@ mutation login($username: String, $password: String) {
 7. `/graphql` must be accessible for external clients.
 
 8. End.
+
+How to run 
+
+1. npm i
+2. create a database in the pgAdmin
+3. create ".env" file
+4. put properties from the pgAdmin to ".env" file just like in ".env.example" file
+5. npm start
